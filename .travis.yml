@@ -9,5 +9,3 @@ notifications:
       - naidu_chinn8@yahoo.com
     on_success: always # default: change
     on_failure: always # default: always
-install:
-	 #- npm install -g mocha
