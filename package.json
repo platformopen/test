@@ -1,5 +1,5 @@
 {
-  "name": "your-first-node-package",
+  "name": "your-first-node-test-package",
   "version": "1.0.0",
   "description": "My very first package",
   "main": "index.js",
